@@ -16,7 +16,5 @@ public class ConditionalStatement1
 
         System.out.println("Input the 3rd number");
         double num3 = in.nextDouble();
-
-       // if (num)
     }
 }
