@@ -1,2 +1,6 @@
-package SelfPractice;public class Practice5 {
+package SelfPractice;
+
+public class Practice5
+{
+
 }
